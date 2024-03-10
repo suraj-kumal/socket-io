@@ -1,4 +1,4 @@
-# socket.io
+# Socket.io
 
 This repository contains a simple chat application built using React for the frontend and Node.js with Express and Socket.io for the backend. The communication between the client and server is facilitated through WebSocket connections, allowing real-time messaging and room-based interactions.
 
