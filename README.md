@@ -48,5 +48,5 @@ How to Run:
    - Start the React app with `npm run dev`.
 
 3. Access the Application:
-   - Open your browser and go to `http://http://localhost:5173` to use the chat application.
+   - Open your browser and go to `http://localhost:5173` to use the chat application.
 
